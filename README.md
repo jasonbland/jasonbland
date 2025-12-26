@@ -57,22 +57,6 @@ I'm a Full Stack Developer passionate about building **scalable, high-performanc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Jason's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jasonbland&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/jasonbland)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jasonbland&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jasonbland)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jasonbland&theme=tokyonight&hide_border=true)](https://github.com/jasonbland)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jasonbland&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/jasonbland)
-
-</div>
-
----
-
 ## 🎯 What I'm Focused On
 
 ```javascript
